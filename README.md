@@ -45,12 +45,12 @@ There are assignments and questions.
 
 6. **Question 6:** How can you monitor the health and performance of an OpenShift cluster? Provide a list of key metrics and tools that can be used for cluster monitoring and management.
    <details><summary>Answer</summary>
-   Monitoring the health and performance of an OpenShift cluster involves tracking key metrics such as CPU and memory usage, network throughput, and storage capacity. Tools like Prometheus, Grafana, and the OpenShift web console can be used to monitor these metrics. Best practices for cluster monitoring include setting up alerts for critical events, regularly reviewing performance data, and scaling resources based on usage patterns and workload demands.
+      Monitoring the health and performance of an OpenShift cluster involves tracking key metrics such as CPU and memory usage, network throughput, and storage capacity. Tools like Prometheus, Grafana, and the OpenShift web console can be used to monitor these metrics. Best practices for cluster monitoring include setting up alerts for critical events, regularly reviewing performance data, and scaling resources based on usage patterns and workload demands.
    </details>
    
 7. **Question 7:** Explain the concept of persistent storage in the context of OpenShift. Compare different types of persistent storage options and discuss their suitability for various application workloads.
    <details><summary>Answer</summary>
-   Persistent storage in OpenShift allows data to be stored beyond the lifecycle of a pod, ensuring that it persists even if the pod is terminated. Examples of persistent storage options include PersistentVolumeClaims (PVCs) and StorageClasses, which can be used to provision and manage storage resources for applications. Administrators can configure different types of storage, such as network-attached storage (NAS) or storage area network (SAN), based on the specific requirements of the application.
+      Persistent storage in OpenShift allows data to be stored beyond the lifecycle of a pod, ensuring that it persists even if the pod is terminated. Examples of persistent storage options include PersistentVolumeClaims (PVCs) and StorageClasses, which can be used to provision and manage storage resources for applications. Administrators can configure different types of storage, such as network-attached storage (NAS) or storage area network (SAN), based on the specific requirements of the application.
    </details>
    
 8. **Question 8:** Describe the process of creating and managing resource quotas in an OpenShift project. Provide an example scenario where resource quotas can be useful and discuss the potential challenges associated with quota management.
