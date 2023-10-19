@@ -2,21 +2,21 @@ I made an example exam with the help of our good friend ChatGPT
 
 There are assignments and questions.
 
-- **Assignment 1:** Deploy a sample application on an OpenShift cluster using a combination of OpenShift templates and Helm charts. Document the deployment process, including any troubleshooting steps encountered during the deployment.
+**Assignment 1:** Deploy a sample application on an OpenShift cluster using a combination of OpenShift templates and Helm charts. Document the deployment process, including any troubleshooting steps encountered during the deployment.
 
-- **Assignment 2:** Configure and secure external and internal traffic using TLS certificates in an OpenShift cluster. Provide a detailed report outlining the steps taken to set up and manage TLS communication for a sample application, including the configuration of routes and certificates.
+**Assignment 2:** Configure and secure external and internal traffic using TLS certificates in an OpenShift cluster. Provide a detailed report outlining the steps taken to set up and manage TLS communication for a sample application, including the configuration of routes and certificates.
    
-- **Assignment 3:** Implement various resource quotas and limit ranges for projects in an OpenShift cluster. Create a comprehensive guide that demonstrates how to configure and manage resource quotas and limit ranges to optimize resource usage and prevent resource abuse in different project environments.
+**Assignment 3:** Implement various resource quotas and limit ranges for projects in an OpenShift cluster. Create a comprehensive guide that demonstrates how to configure and manage resource quotas and limit ranges to optimize resource usage and prevent resource abuse in different project environments.
    
-- **Assignment 4:** Create and manage a custom OpenShift Operator for a specific application or service. Develop a detailed tutorial that outlines the steps for building, deploying, and managing the custom Operator, and explain its advantages and use cases within an OpenShift environment.
+**Assignment 4:** Create and manage a custom OpenShift Operator for a specific application or service. Develop a detailed tutorial that outlines the steps for building, deploying, and managing the custom Operator, and explain its advantages and use cases within an OpenShift environment.
    
-- **Assignment 5:** Troubleshoot and resolve common networking and security issues in an OpenShift cluster. Document the troubleshooting process for various scenarios, such as network communication failures, security context conflicts, and access control problems, and provide a detailed analysis of each case.
+**Assignment 5:** Troubleshoot and resolve common networking and security issues in an OpenShift cluster. Document the troubleshooting process for various scenarios, such as network communication failures, security context conflicts, and access control problems, and provide a detailed analysis of each case.
    
-- **Assignment 6:** Set up and configure persistent storage for a sample application in an OpenShift environment. Provide a comprehensive guide that demonstrates the implementation of different types of persistent storage, such as PersistentVolumeClaims and StorageClasses, and explain the considerations for choosing appropriate storage solutions for specific application requirements.
+**Assignment 6:** Set up and configure persistent storage for a sample application in an OpenShift environment. Provide a comprehensive guide that demonstrates the implementation of different types of persistent storage, such as PersistentVolumeClaims and StorageClasses, and explain the considerations for choosing appropriate storage solutions for specific application requirements.
    
-- **Assignment 7:** Monitor and analyze the health and performance of an OpenShift cluster using relevant monitoring tools and metrics. Prepare a detailed report that highlights key performance indicators, metrics, and best practices for cluster monitoring and management, along with recommendations for optimizing cluster performance.
+**Assignment 7:** Monitor and analyze the health and performance of an OpenShift cluster using relevant monitoring tools and metrics. Prepare a detailed report that highlights key performance indicators, metrics, and best practices for cluster monitoring and management, along with recommendations for optimizing cluster performance.
    
-- **Assignment 8:** Design and execute a series of automated application deployments using different strategies such as rolling updates and blue-green deployments. Develop a comprehensive plan that outlines the implementation steps, deployment strategies, and evaluation criteria for each approach, along with an analysis of their respective benefits and limitations
+**Assignment 8:** Design and execute a series of automated application deployments using different strategies such as rolling updates and blue-green deployments. Develop a comprehensive plan that outlines the implementation steps, deployment strategies, and evaluation criteria for each approach, along with an analysis of their respective benefits and limitations
 
 # Questions
 **Question 1:** In the context of OpenShift, what is the purpose of a Route object? Provide an example scenario where Routes are used.
