@@ -20,9 +20,7 @@ There are assignments and questions.
 # Questions
 1. **Question 1:** In the context of OpenShift, what is the purpose of a Route object? Provide an example scenario where Routes are used.
    <details><summary>Answer</summary>
-    <pre>
     **Answer 1:** The purpose of a Route object in OpenShift is to expose services to external traffic and make them accessible from outside the cluster. Routes enable external access to applications by exposing them via a hostname or a path. For example, a Route can be used to expose a web application running in an OpenShift cluster to the internet, allowing external users to access the application via a specific URL.
-    </pre>
    </details>
    
 2. **Question 2:** How can you troubleshoot and diagnose networking issues in an OpenShift cluster? Provide a step-by-step approach to identify and resolve common networking problems.
