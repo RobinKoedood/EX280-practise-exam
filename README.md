@@ -1,4 +1,5 @@
 I made an example exam with the help of our good friend ChatGPT
+
 There are assignments and questions.
 
 - **Assignment 1:** Deploy a sample application on an OpenShift cluster using a combination of OpenShift templates and Helm charts. Document the deployment process, including any troubleshooting steps encountered during the deployment.
