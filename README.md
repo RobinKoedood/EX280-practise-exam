@@ -75,5 +75,4 @@ There are assignments and questions.
 **Question 10:** Discuss the importance of monitoring and troubleshooting container events and alerts in an OpenShift environment. Provide examples of common container and pod events and explain how you would troubleshoot each scenario.
     <details><summary>Answer</summary>
        Identifying deprecated Kubernetes API usage in an OpenShift environment requires checking the current version of OpenShift against the latest Kubernetes API deprecation list. Administrators can use the `oc api-resources` command to list all available resources and their associated deprecation warnings. By comparing these warnings with the latest Kubernetes API deprecation information, administrators can identify any deprecated API usage and plan for the necessary updates and migrations to avoid potential issues in the future.
-
     </details>
